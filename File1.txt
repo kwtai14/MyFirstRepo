@@ -1,2 +1,3 @@
 This is some text
 ...it's time to start new branch.
+This is some text
